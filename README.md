@@ -100,6 +100,16 @@ All models were evaluated using:
 
 ---
 
+## 📽️ Project Presentation
+
+### 🔹 Video Walkthrough  
+🎥 [Click here to watch the full project presentation](https://nileuniversity-my.sharepoint.com/:v:/g/personal/m_haitham2296_nu_edu_eg/Efm7UkzXZYdEjh4rbuvxWEcBQuf_Y4EuN4CtJBXxjQUZWA?e=JYxqrz)  
+> Hosted on Nile University's SharePoint — this video demonstrates the data preprocessing, model training, evaluation, and the web app deployment process.
+
+### 🔹 Presentation Slides  
+📊 [Download the project slides (PPTX)](https://github.com/user-attachments/files/20633829/Machine_learning_ppt.pptx)  
+> Contains the summary of models used, performance metrics, and key visuals for better understanding of the project.
+
 ## 📈 Performance Comparison
 
 Below is the code used to generate the performance bar plot across all models and metrics:
@@ -149,13 +159,4 @@ plt.ylim(0, 1)
 plt.tight_layout()
 plt.show() 
 
-## 🎥 Project Presentation
-
-- 📽️ **Presentation Video**:  
-  [Watch the video on OneDrive](https://nileuniversity-my.sharepoint.com/:v:/g/personal/m_haitham2296_nu_edu_eg/Efm7UkzXZYdEjh4rbuvxWEcBQuf_Y4EuN4CtJBXxjQUZWA?e=JYxqrz)  
-  This video presents the full walk-through of our machine learning project, including data exploration, modeling, and evaluation results.
-
-- 📊 **Presentation Slides**:  
-  [Download the PowerPoint presentation](https://github.com/user-attachments/files/20633829/Machine_learning_ppt.pptx)  
-  These slides summarize the project's methodology, model comparisons, and key findings.
 
